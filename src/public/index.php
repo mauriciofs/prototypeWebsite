@@ -2,6 +2,8 @@
 
 require dirname(__DIR__) . "/../vendor/autoload.php";
 
+use Application\Config\Config;
+
 $config = array(
     'display_errors' => true
 );
