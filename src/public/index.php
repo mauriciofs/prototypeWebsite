@@ -6,8 +6,6 @@ $config = array(
     'display_errors' => true
 );
 
-var_dump($_SERVER['ENVIRONMENT']);
-
 // Create and configure Slim app
 $app = new \Slim\App(["settings" => $config]);
 
