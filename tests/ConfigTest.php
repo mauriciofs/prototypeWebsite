@@ -1,11 +1,12 @@
 <?php
 
+use PHPUnit\Framework\TestCase;
 use Application\Config\Config;
 
 /**
  * Config test case.
  */
-class ConfigTest extends PHPUnit_Framework_TestCase
+class ConfigTest extends TestCase
 {
 
     /**
