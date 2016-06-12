@@ -5,3 +5,4 @@ install: composer install
 branches:
   only:
     - master
+script: vendor/bin/phpunit
