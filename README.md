@@ -1,2 +1,2 @@
 # prototypeWebsite
-Prototype website using Slim framework and a JS frameworks
+Php 7 event driven with Slim framework
