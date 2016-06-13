@@ -10,7 +10,7 @@ use PHPUnit\Framework\TestCase;
 class ClassTest extends TestCase
 {
     public function testAssertTrue() {
-        $this->assertTrue(true);
+        $this->assertTrue(false);
     }
 }
 
